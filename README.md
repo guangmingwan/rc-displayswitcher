@@ -16,6 +16,6 @@ rc掌机显示设备切换
 
 再在 /etc/rc.local添加启动项即可使用
 
-`sudo node /home/pi/displayswitcher/main.js
-exit 0`
+`sudo node /home/pi/displayswitcher/main.js`
+`exit 0`
 
